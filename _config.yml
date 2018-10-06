@@ -26,9 +26,13 @@ plugins:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://www.facebook.com/HackOttwa
+    url: https://www.facebook.com/hackottawa
   - title: twitter
-    url: https://twitter.com/HackOttwa
+    url: https://twitter.com/hackottawa
+  - title: linkedin
+    url: https://www.linkedin.com/company/hackottawa
+  - title: instagram
+    url: https://instagram.com/hack.ottwa
 
 # Build settings
 markdown: kramdown
